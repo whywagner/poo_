@@ -19,3 +19,4 @@ LINK DO VIDEO:
 https://youtu.be/y1Scc_WeOpI
 
 [Questão 01 - Código](https://github.com/whywagner/poo_/blob/e550b736b1494cc4cd91ea6ef9965b0ab255eba3/LISTA%2002/cod_01_do_video.py)
+[Questão 02 - Código](https://github.com/whywagner/poo_/blob/e550b736b1494cc4cd91ea6ef9965b0ab255eba3/LISTA%2003/cod_02_do_v%C3%ADdeo.py)
