@@ -1,4 +1,4 @@
-dados={'nome':'Fesor', 'senha':'D0m1No' }
+dados={'Nome':'Mario', 'Senha':'dominozinho' }
 
 nomeinfo=input('digite o nome de usuário (maiúsculas importam):  ')
 senhainfo=input('digite a senha (maiúsculas importam): ')
