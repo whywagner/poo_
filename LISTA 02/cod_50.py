@@ -1,4 +1,4 @@
-alunos={'gabriel':9.2, 'josé':7, 'zé':6}
+alunos={"Wagner":9.7, "Mario": 8, "Matheus": 5.4}
 
 for chave, valor in alunos.items():
     
