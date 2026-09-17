@@ -13,10 +13,12 @@ Este repositório reúne os códigos desenvolvidos para as três questões apres
 
 | Apresentação | Lista | Questão | Código | Link do vídeo |
 |---|---|---|---|---|
-[10º da 2ª lista] | [25º da 3ª lista] | [1/2] | [Abrir códigos](./) (./questões_1_e_2.py) | [Assistir ao vídeo](INSIRA_AQUI_O_LINK_DO_VIDEO_1) |
+[10º Questão] | [2ª lista] | [10] | [Abrir códigos](./) (./questão_10_lista02.py) | [Assistir ao vídeo](INSIRA_AQUI_O_LINK_DO_VIDEO_1/2) |
+[25º Questão] | [3ª lista] | [25] | [Abrir códigos](./) (./questão_25_lista03.py) | [Assistir ao vídeo](INSIRA_AQUI_O_LINK_DO_VIDEO_1/2) |
 
-LINK DO VIDEO:
+## LINK DO VIDEO:
 https://youtu.be/y1Scc_WeOpI
 
-[Questão 01 - Código](https://github.com/whywagner/poo_/blob/e550b736b1494cc4cd91ea6ef9965b0ab255eba3/LISTA%2002/cod_01_do_video.py)
-[Questão 02 - Código](https://github.com/whywagner/poo_/blob/e550b736b1494cc4cd91ea6ef9965b0ab255eba3/LISTA%2003/cod_02_do_v%C3%ADdeo.py)
+# QUESTÕES DO VÍDEO
+[Questão 10 (Lista 02) - Código]([https://github.com/whywagner/poo_/blob/e550b736b1494cc4cd91ea6ef9965b0ab255eba3/LISTA%2002/cod_01_do_video.py](https://github.com/whywagner/poo_/blob/25a0b8d4eb3eb0aac9ff500f95fd869204dcfec7/LISTA%2002/cod_10%20_lista02%20(do%20v%C3%ADdeo).py))
+[Questão 25 (Lista 03) - Código](https://github.com/whywagner/poo_/blob/e550b736b1494cc4cd91ea6ef9965b0ab255eba3/LISTA%2003/cod_02_do_v%C3%ADdeo.py)
